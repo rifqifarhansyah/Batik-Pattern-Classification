@@ -101,6 +101,14 @@ A simple Batik Pattern Classification using Decision Tree and Global Features Ex
 │       │
 │       └───Parang
 │
+├───image
+│       Ceplok_testcase.png
+│       Decision_tree.png
+│       lereng_testcase.png
+│       main.png
+│       nitik_testcase.png
+│       parang_testcase.png
+│
 ├───processing
 │       data.h5
 │       labels.h5
