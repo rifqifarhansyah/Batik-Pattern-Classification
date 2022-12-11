@@ -4,23 +4,24 @@
 </h2>
 <hr>
 
-> To watch the docs more detail [_here_](https://www.youtube.com/watch?v=xm5gqvvVv0k&ab_channel=MohammadRifqiFarhansyah). 
+> To watch the docs more detail [_here_](https://drive.google.com/file/d/1SbD0jCkGbdNSbsBV52oIpmvyz75EotJb/view?usp=sharing). 
 
 ## Table of Contents
 1. [General Info](#general-information)
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
 4. [Usage](#usage)
-5. [Structure](#structure)
-6. [Project Status](#project-status)
-7. [Room for Improvement](#room-for-improvement)
-8. [Acknowledgements](#acknowledgements)
-9. [Contact](#contact)
+5. [Screenshots](#screenshots)
+6. [Structure](#structure)
+7. [Project Status](#project-status)
+8. [Room for Improvement](#room-for-improvement)
+9. [Acknowledgements](#acknowledgements)
+10. [Contact](#contact)
 
 <a name="general-information"></a>
 
 ## General Information
-A simple Batik Pattern Classification using Decision Tree.
+A simple Batik Pattern Classification using Decision Tree and Global Features Extraction.
 
 <a name="features"></a>
 
@@ -28,7 +29,7 @@ A simple Batik Pattern Classification using Decision Tree.
 - Upload your batik pattern dataset in 'dataset' folder and analyze it by using "CREATE" command
 - Train your dataset by using "TRAIN" command
 - The result of classification between the uploaded photo with the database class
-- Download the result (tree image) as a dot extension file
+- Download the result (tree image) as a DOT extension file
 
 <a name="technologies-used"></a>
 
@@ -49,6 +50,30 @@ A simple Batik Pattern Classification using Decision Tree.
 3. make sure you have installed all the libraries that we used in this project.
 4. go to 'main.py' file and run it.
 5. follow the instruction in the terminal.
+
+<a name="screenshots"></a>
+
+## Screenshots
+<p align=center>
+  <img src="/image/main.png/">
+  <p>Figure 1. Main Menu</p>
+  <nl>
+  <img src="/image/Ceplok_testcase.png/">
+  <p>Figure 2. Ceplok Testcase Image</p>
+  <nl>
+  <img src="/image/lereng_testcase.png/">
+  <p>Figure 3. Lereng Testcase Image</p>
+  <nl>
+  <img src="/image/nitik_testcase.png/">
+  <p>Figure 4. Nitik Testcase Image</p>
+  <nl>
+  <img src="/image/parang_testcase.png/">
+  <p>Figure 5. Parang Testcase Image</p>
+  <nl>
+  <img src="/image/Decision_tree.png/">
+  <p>Figure 6. Decision Tree Image</p>
+  <nl>
+</p>
 
 <a name="structure"></a>
 
@@ -104,7 +129,7 @@ Room for Improvement:
 
 ## Contact
 <h4 align="center">
-  Created by @me<br/>
+  My Contact : mrifki193@gmail.com<br/>
   2022
 </h4>
 <hr>
